@@ -22,6 +22,11 @@
 
 
 ## 제출 방법  
+링크 제출용 공유 스프레드시트는 다음과 같습니다.  
+
+[공유문서](https://docs.google.com/spreadsheets/d/1vtnof7RRYohOu5M57FHU785HfezYI6MwhDEjC65UmA8/edit?usp=sharing)  
+
+
 개인 리포지토리를 깃허브에 생성한 후, 다음과 같이 제출합니다.  
 
 
